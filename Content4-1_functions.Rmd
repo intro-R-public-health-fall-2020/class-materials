@@ -1,5 +1,5 @@
 ---
-title: "Content 4-1: Introduction to functions"
+title: "Content 4-1: Getting started with functions"
 date: "Monday, October 26, 2020"
 output: 
   html_document:
